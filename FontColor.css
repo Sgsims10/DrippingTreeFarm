@@ -1,0 +1,28 @@
+#SolonTest {
+background: ivory;  font-family: 'Spinnaker', sans-serif;
+
+}
+
+.customContent {
+font-family:    'Noticia Text'
+              , serif;
+margin-right:   150px;
+margin-left:    80px;
+background:     ivory;
+}
+
+
+img {
+  border-radius: 4px;
+  padding:       5px;
+}
+
+.nav-link {
+  font-size:     1.8em !important;
+       }
+
+#footerContent{
+     margin-top:    60px;
+     margin-bottom: 60px;
+     clear:         both;
+}
